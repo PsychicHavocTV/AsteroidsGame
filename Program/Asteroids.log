@@ -1,0 +1,9 @@
+﻿  Meteor.cpp
+  Player.cpp
+  Program.cpp
+  Shoot.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Asteroids.vcxproj -> C:\Users\s213209\Desktop\E.W. Intro To C++ Task 4\Program Files\Asteroids\x64\Release\Asteroids.exe
